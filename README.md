@@ -40,5 +40,5 @@ A simple Django project that implements multi-user login and permission-based ac
   ## Contributing
   Please make a pull request if you want to contribute to this project
   
-  ##License
+  ## License
   MIT License
